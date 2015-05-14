@@ -1,5 +1,3 @@
-library(shiny)
-
 source("r.value.r")
 
 shinyServer(function(input, output){
